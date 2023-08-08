@@ -6,4 +6,4 @@ Scrape the DoD SkillBridge Program website into an easier to search CSV.  Much e
 
 Just run in Google colab and it will save the CSV to your google drive.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/whit3rabbit/skillbridge-csv/)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whit3rabbit/skillbridge-csv/]
